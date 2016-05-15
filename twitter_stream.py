@@ -2,7 +2,7 @@
 """
 Created on Wed Apr 20 15:41:15 2016
 
-@author: CarolineL
+@author: CarolineL and Aaron Mauner
 """
 
 #Import the necessary methods from tweepy library
