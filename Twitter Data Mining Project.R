@@ -6,7 +6,7 @@ library(ggplot2)
 library(data.table)
 library(tableone)
 
-### Data set pulled form twitter using twitterpull.py
+### Data set pulled form twitter using twitter_stream.py
 
 ### Data import
 tweets <- read.csv("/Users/AaronMauner/Google Drive/UCD Spring '16/R and Python/Data Project/tweetsparsed.csv", na.strings="NA")
