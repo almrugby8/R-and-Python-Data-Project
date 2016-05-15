@@ -1,0 +1,12 @@
+Biostatistics 6640
+Python and R in Data Science Data Analysis Project: Writeup details
+• Due date: May 16 at 12 pm (send by email as a PDF). Also give a URL for where your code is stored on github.
+• The writeup for this project should be 12 point font, double-spaced, 25 lines per page and should not be more than 5 pages long (excluding references, tables and figures)
+• Structure:
+1. Study Background: this section should describe how the data were pulled from
+Twitter.
+2. Descriptive statistics and findings: This section should give summaries and sta- tistical results to show findings from the analyses run on the dataset.
+3. Conclusions: Summarize conclusions from the analyses. Also describe strengths and limitations of the study.
+4. References
+5. Tables and Figures: No more than 5-6 tables and figures combined.
+6. Appendix
